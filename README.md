@@ -1,19 +1,17 @@
 # Google-Timer
 
-# YouTube
+
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Karishma282/YouTube">
-<!--     <img src="https://github.com/anubis-x-ranger/projectScreenshots/blob/main/netfliximg.jpg" alt="Logo" width="120" height="60"> -->
-    <img src="https://cdn.mos.cms.futurecdn.net/8gzcr6RpGStvZFA2qRt4v6.jpg"alt="YouTube">
-   
+  <a href="https://github.com/Karishma282/Google-Timer">
+
   </a>
 
-<h3 align="center">YouTube(Clone)</h3>
+<h3 align="center">Google-Timer</h3>
 
   <p align="center">
-    This is our Unit-3 assignment <a href="https://www.masaischool.com/"> Masai School </a> 
+    This is our Unit-5 assignment <a href="https://www.masaischool.com/"> Masai School </a> 
     <br />
   
 </div>
@@ -37,8 +35,6 @@
       </ul>
     </li>
     <li><a href="#usage-and-features">Usage & Features </a></li>
-    <li><a href="#contributors">Contributors</a></li>
-    <li><a href="#team-members">Team Members</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
@@ -50,12 +46,12 @@
 ## About The Project
 
 
-This  project was completed in 2-3 days.
-I tried to clone the YouTube App.With all the Concepts we learned in Masai School till Unit-3.Checkout my YouTube App Clone by clicking on the link below and find the Source Code in the Main Branch.
+This  project was completed in 1 day.
+I tried to build stopwatch with proper functionalities With all the Concepts we learned in Masai School till Unit-5.Checkout my Google-timer by clicking on the link below and find the Source Code in the Main Branch.
 <br/>
 <br/>
-<a href="my-mini-youtube.netlify.app">
-<img src="https://github.com/Karishma282/YouTube/blob/main/Screenshot%202022-04-26%20232735.png" alt="Home-Screen" width="1000" >
+<a href="silver-gnome-eeef58.netlify.app">
+<img src="https://github.com/Karishma282/Google-Timer/blob/main/Screenshot%202022-04-27%20002730.png" alt="Home-Screen" width="1000" >
 
 </a>
 
@@ -66,6 +62,8 @@ I tried to clone the YouTube App.With all the Concepts we learned in Masai Schoo
 - HTML
 - CSS
 - Advanced JS
+- React JS
+
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -74,18 +72,17 @@ I tried to clone the YouTube App.With all the Concepts we learned in Masai Schoo
 
 ## Getting Started
 
- This App can be used to watch trailers, songs, funny videos etc. 
+ It is project about stopwatch in which you can pause, resume and reset time whenever you click on particular button. 
 
 
 
 <!-- USAGE EXAMPLES -->
 
 ## Usage and Features
-
-You can watch movie trailers, songs, any type of videos of different genres. 
+It is project about stopwatch in which you can pause, resume and reset time whenever you click on particular button. 
 <br/>
 <br/>
-<img src="https://github.com/Karishma282/YouTube/blob/main/Screenshot%202022-04-26%20232821.png" alt="Search-Results" width="1000">
+ <img src="https://github.com/Karishma282/Google-Timer/blob/main/video-to-gif-converter%20(1).gif" > 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -99,7 +96,6 @@ You can watch movie trailers, songs, any type of videos of different genres.
 This project would not have been possible without…
 
 - Masai School's -Instructors
-- Swanand Kadam
-- Abdul Jabbar Peer
+- Prabhanjan Padhye
 
 <p align="right">(<a href="#top">back to top</a>)</p>
